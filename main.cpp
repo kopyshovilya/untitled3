@@ -38,7 +38,7 @@ public:
     }
 };
 
-
+а
 
 int main() {
     auto a = 10.;
